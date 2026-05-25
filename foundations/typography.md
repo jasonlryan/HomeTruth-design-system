@@ -21,10 +21,15 @@ as clear, calm and trustworthy. The wordmark balances Gill Sans weights across
 ## Typeface
 
 - **Family:** Gill Sans
+- **Webfont family:** `HomeTruth Gill Sans`
 - **Weights:** Light 300, Regular 400, Bold 700
-- **Fallback stack:** `'Gill Sans', 'Gill Sans MT', -apple-system, 'Helvetica Neue', Arial, sans-serif`
+- **Fallback stack:** `"HomeTruth Gill Sans", "Gill Sans", "Gill Sans MT", -apple-system, "Helvetica Neue", Arial, sans-serif`
 
 Token: `--font-base` (see [`tokens/tokens.css`](../tokens/tokens.css)).
+
+The product frontend self-hosts WOFF2 files for Light, Regular and Bold weights
+under `public/fonts/`. Confirm web embedding rights before distributing those
+font files outside authorised project repositories.
 
 ## Type scale
 

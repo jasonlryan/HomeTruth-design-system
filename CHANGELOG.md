@@ -22,3 +22,8 @@ system uses [semantic versioning](https://semver.org/).
 - Logos folder with the full logo (light/dark) and brand mark, plus usage rules.
 - Icons folder with the building-block mark and naming/sizing conventions.
 - Scaffolded `components/`, `imagery/` and `voice-and-tone/` folders.
+
+### Changed
+
+- Typography tokens now prefer the self-hosted `HomeTruth Gill Sans` webfont
+  family before falling back to local Gill Sans/system fonts.

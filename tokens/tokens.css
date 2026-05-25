@@ -45,7 +45,7 @@
   --color-border-default: var(--ht-light-grey);
 
   /* --- Typography -------------------------------------- */
-  --font-base: 'Gill Sans', 'Gill Sans MT', -apple-system, 'Helvetica Neue', Arial, sans-serif;
+  --font-base: "HomeTruth Gill Sans", "Gill Sans", "Gill Sans MT", -apple-system, "Helvetica Neue", Arial, sans-serif;
   --font-weight-light: 300;
   --font-weight-regular: 400;
   --font-weight-bold: 700;
