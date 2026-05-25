@@ -7,7 +7,10 @@
    ============================================================ */
 
 :root {
-  /* --- Primitive: brand --------------------------------- */
+  /* --- Primitive: brand ---------------------------------
+     Provenance: BRAND.md + product token bridge.
+     Style-guide swatches are TBC and supporting evidence only.
+     See foundations/brand-provenance.md. */
   --ht-orange: #E8651A;
   --ht-orange-light: #F28C4E;
   --ht-cyan: #00B4D8;

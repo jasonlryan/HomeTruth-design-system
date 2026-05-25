@@ -32,3 +32,12 @@ system uses [semantic versioning](https://semver.org/).
 
 - Home lifecycle building-block SVG motifs for Purchase, Maintain, Improve and
   Sell.
+- Brand provenance foundation documenting the source hierarchy for colour
+  decisions, the current accepted UI values and how to treat conflicting logo
+  artwork/style-guide swatches.
+
+### Changed
+
+- Colour, logo and token docs now state that UI colour decisions are
+  provenance-based: `BRAND.md` plus the product token bridge are canonical for
+  UI, while approved artwork files remain canonical for logo artwork.

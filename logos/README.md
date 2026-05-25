@@ -52,6 +52,10 @@ Use the **logo artwork** SVG as-is for the mark. Use the **UI tokens** for
 everything else (backgrounds, buttons, type). Do not recolour the logo to the
 UI tokens.
 
+This distinction is a provenance decision: approved artwork files are canonical
+for the artwork they contain; `BRAND.md` and `tokens/` are canonical for product
+UI tokens. See [`foundations/brand-provenance.md`](../foundations/brand-provenance.md).
+
 ## Usage rules
 
 - **Clear space:** keep clear space around the logo equal to the height of one

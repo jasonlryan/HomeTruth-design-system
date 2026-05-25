@@ -54,7 +54,7 @@ in code, in Figma, or writing a brief.
 | Folder | What lives here |
 |--------|-----------------|
 | [`tokens/`](./tokens/) | Machine-readable design tokens — `tokens.json` (W3C DTCG format) and `tokens.css` (CSS custom properties). The source values for everything else. |
-| [`foundations/`](./foundations/) | The decisions behind the tokens — [colour](./foundations/colour.md), [typography](./foundations/typography.md), [spacing & layout](./foundations/spacing-layout.md), [gradients](./foundations/gradients.md). |
+| [`foundations/`](./foundations/) | The decisions behind the tokens — [brand provenance](./foundations/brand-provenance.md), [colour](./foundations/colour.md), [typography](./foundations/typography.md), [spacing & layout](./foundations/spacing-layout.md), [gradients](./foundations/gradients.md). |
 | [`logos/`](./logos/) | The HomeTruth logo, wordmark and brand mark in all approved forms, plus usage and clear-space rules. |
 | [`icons/`](./icons/) | The icon library — building-block symbols and UI icons — with sizing and naming conventions. |
 | [`components/`](./components/) | Reusable UI component specs (buttons, inputs, cards, nav). Scaffolded. |
@@ -100,11 +100,11 @@ See [`foundations/colour.md`](./foundations/colour.md) for the full palette and
 ## Governance
 
 - **Owner:** Jason Ryan.
-- **Source of truth:** `BRAND.md` and the HomeTruth Development Style Guide
-  remain the upstream references; this folder operationalises them. Where the
-  two disagree, the digital UI palette in `tokens/` is canonical for product,
-  and the logo artwork colours are canonical for the printed mark (see
-  [`logos/README.md`](./logos/README.md)).
+- **Source of truth:** brand decisions are made by provenance, not preference.
+  See [`foundations/brand-provenance.md`](./foundations/brand-provenance.md)
+  for the source hierarchy. Where current references disagree, the digital UI
+  palette in `tokens/` is canonical for product, and the logo artwork colours
+  are canonical for approved artwork files (see [`logos/README.md`](./logos/README.md)).
 - **Changes:** every design-system change must start from a ticket in
   `../HomeTruth-tickets`, include an implementation log in that ticket, be
   referenced by ticket ID in commits or pull requests, and be recorded in

@@ -6,6 +6,7 @@ status: stable
 updated: 2026-05-25
 owner: Jason Ryan
 tokens: ../tokens/tokens.json
+provenance: ./brand-provenance.md
 tags:
   - design-system
   - foundation
@@ -17,6 +18,12 @@ tags:
 HomeTruth's palette is built from three brand hues, one accent and a neutral
 ramp. Colour carries meaning: orange drives action, cyan signals "truth" and
 links, purple is the secondary brand voice, green confirms success.
+
+These values are provenance-based decisions. The current operational brand
+reference (`BRAND.md`) and implemented token bridge are treated as canonical for
+product UI. The BrandAd style-guide PDF names the palette but marks the colour
+values as `TBC`, so its swatches are supporting evidence rather than final UI
+hex values. See [brand provenance](./brand-provenance.md).
 
 ## Primary
 
