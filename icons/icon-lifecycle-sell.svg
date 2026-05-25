@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-labelledby="title">
+  <title id="title">Sell lifecycle building blocks</title>
+  <rect x="6" y="8" width="16" height="16" rx="3" fill="var(--ht-green, #43B02A)"/>
+  <rect x="22" y="8" width="16" height="16" rx="3" fill="var(--ht-cyan, #00B4D8)"/>
+  <rect x="14" y="24" width="16" height="16" rx="3" fill="var(--ht-orange, #E8651A)"/>
+  <rect x="30" y="24" width="10" height="10" rx="2" fill="var(--ht-purple, #8B3FA0)"/>
+</svg>

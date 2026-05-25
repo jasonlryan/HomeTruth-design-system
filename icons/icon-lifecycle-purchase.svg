@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-labelledby="title">
+  <title id="title">Purchase lifecycle building blocks</title>
+  <rect x="5" y="7" width="18" height="18" rx="3" fill="var(--ht-orange, #E8651A)"/>
+  <rect x="5" y="25" width="18" height="18" rx="3" fill="var(--ht-purple-light, #A966BF)"/>
+  <rect x="23" y="25" width="18" height="18" rx="3" fill="var(--ht-cyan, #00B4D8)"/>
+</svg>

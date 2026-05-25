@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-labelledby="title">
+  <title id="title">Improve lifecycle building blocks</title>
+  <rect x="6" y="24" width="17" height="17" rx="3" fill="var(--ht-purple-light, #A966BF)"/>
+  <rect x="15.5" y="7" width="17" height="17" rx="3" fill="var(--ht-orange, #E8651A)"/>
+  <rect x="25" y="24" width="17" height="17" rx="3" fill="var(--ht-cyan-light, #48D1E8)"/>
+</svg>

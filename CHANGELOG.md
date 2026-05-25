@@ -27,3 +27,8 @@ system uses [semantic versioning](https://semver.org/).
 
 - Typography tokens now prefer the self-hosted `HomeTruth Gill Sans` webfont
   family before falling back to local Gill Sans/system fonts.
+
+### Added
+
+- Home lifecycle building-block SVG motifs for Purchase, Maintain, Improve and
+  Sell.

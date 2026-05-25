@@ -10,6 +10,10 @@ tags:
   - icon
 assets:
   - hometruth-icon.svg
+  - icon-lifecycle-purchase.svg
+  - icon-lifecycle-maintain.svg
+  - icon-lifecycle-improve.svg
+  - icon-lifecycle-sell.svg
 ---
 
 # Icons
@@ -23,6 +27,10 @@ the framing symbols in the style guide.
 | File | Format | Use |
 |------|--------|-----|
 | `hometruth-icon.svg` | SVG | The building-block brand mark — also used as the master icon reference |
+| `icon-lifecycle-purchase.svg` | SVG | Purchase stage framing/icon motif |
+| `icon-lifecycle-maintain.svg` | SVG | Maintain stage framing/icon motif |
+| `icon-lifecycle-improve.svg` | SVG | Improve stage framing/icon motif |
+| `icon-lifecycle-sell.svg` | SVG | Sell stage framing/icon motif |
 
 ## Sizing
 
@@ -58,6 +66,5 @@ Examples: `icon-nav-home`, `icon-nav-home-filled`, `icon-action-search`,
 ## To add
 
 - A full UI icon set (navigation, actions, status, property/home concepts).
-- The four Home Lifecycle stage icons — Purchase, Maintain, Improve, Sell —
-  and the "icon dial" device from the style guide.
+- The "icon dial" device from the style guide.
 - An `icons/svg/` subfolder once the set grows beyond a handful of files.
